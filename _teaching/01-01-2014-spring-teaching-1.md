@@ -1,10 +1,17 @@
 ---
-collection: teaching
 title: "Teaching Experience"
+collection: teaching
 permalink: /teaching/
-type: ""
-venue: ""
 ---
+
+<!-- Debug info -->
+<p>Title: {{ page.title }}</p>
+<p>Collection: {{ page.collection }}</p>
+<p>Type: {{ page.type }}</p>
+<p>Venue: {{ page.venue }}</p>
+<p>Date: {{ page.date }}</p>
+<!-- End debug -->
+
 
 In 38 years of my teaching career, I have taught a number of courses at undergraduate, postgraduate and diploma levels. 
 
