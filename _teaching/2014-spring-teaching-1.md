@@ -1,11 +1,8 @@
 ---
 collection: teaching
 ---
-
 In 38 years of my teaching career, I have taught a number of courses at undergraduate, postgraduate and diploma levels. At undergraduate level, I have taught full year courses on Sampling Techniques and Design of Experiments, Fundamentals of Mathematical Statistics, Applied Statistics, Introduction to Computers and Programming with FORTRAN, Elementary courses on Probability Theory and Statistical Inference to the students of Statistics. Besides, I have taught a full year course on Computer Organization and Architecture to the students of B.Sc. (Hons.) Computer Science for three consecutive sessions.
-
 ---
-
 At postgraduate level, I have taught courses on Statistical Decision Theory, Multivariate Analysis, Real Analysis, Statistical Inference, Bayesian Methodology, Computer Intensive Statistical Methods, etc. Besides, I have taught a course on Survival Analysis to the students of M.Sc. (Health Statistics) at the Institute of Medical Sciences, BHU and several courses to the students of M.Sc. Statistics and Computing at DST Centre for Interdisciplinary Mathematical Sciences, BHU.
 ---
 I am also engaged in teaching students of PhD program at Banaras Hindu University after the course work was introduced by the University. The primary papers include Bayesian Statistics and Statistical Computing.
