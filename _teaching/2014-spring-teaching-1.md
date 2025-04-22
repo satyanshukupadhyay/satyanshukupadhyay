@@ -1,9 +1,7 @@
 ---
-title: "Teaching experience"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 ---
-
 
 In 38 years of my teaching career, I have taught a number of courses at undergraduate, postgraduate and diploma levels. At undergraduate level, I have taught full year courses on Sampling Techniques and Design of Experiments, Fundamentals of Mathematical Statistics, Applied Statistics, Introduction to Computers and Programming with FORTRAN, Elementary courses on Probability Theory and Statistical Inference to the students of Statistics. Besides, I have taught a full year course on Computer Organization and Architecture to the students of B.Sc. (Hons.) Computer Science for three consecutive sessions.
 
