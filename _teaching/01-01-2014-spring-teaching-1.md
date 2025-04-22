@@ -2,7 +2,6 @@
 title: "Teaching Experience"
 collection: teaching
 permalink: /teaching/
-Date: "Since 1980s"
 ---
 
 
