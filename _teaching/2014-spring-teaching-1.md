@@ -4,7 +4,6 @@ title: "Teaching Experience"
 permalink: /teaching/
 type: ""
 venue: ""
-date: ""
 ---
 
 In 38 years of my teaching career, I have taught a number of courses at undergraduate, postgraduate and diploma levels. 
