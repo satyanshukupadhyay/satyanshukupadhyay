@@ -2,7 +2,7 @@
 title: "Conference/Seminar Proceedings"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/talk-3
 #date: 2014-03-01
 ---
 
