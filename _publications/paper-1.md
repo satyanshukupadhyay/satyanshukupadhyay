@@ -1,8 +1,8 @@
 ---
 title: "My Publications"
 collection: publications
-type: Publications
-permalink: /publications/paper-1
+category: manuscripts
+permalink: /publication/paper-1
 ---
 A. Research papers:
 1. M. Pandey and S.K. Upadhyay (1983). Selection of Weibull shape parameter, based on adaptive estimation. IEEE Trans. Reliab., R-32, 2, 205-208.
