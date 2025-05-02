@@ -20,11 +20,17 @@ Education
 Membership of Professional Bodies
 ======
 i. Indian Society for Probability and Statistics (Life) 
+
 ii. Indian Statistical Institute, Calcutta (Life) (L/7269) 
+
 iii. International Society for Bayesian Analysis (ISBA) 
+
 iv. Fellow of the Royal Statistical Society, London (FSS) 
+
 v. Indian Chapter of ISBA 
+
 vi. FORUM for Interdisciplinary Mathematics (Life) 
+
 vii. Indian Bayesian Society
 
 Honours, Awards and Fellowships
@@ -34,6 +40,7 @@ Honours, Awards and Fellowships
 * 1992-1993 Commission of the European Community (CEC) Research Bursary to work at Imperial College, London with Prof. Adrian F. M. Smith 
 * 1992-cont.. Elected Fellow of the Royal Statistical Society (FSS), London 
 * 2013 Certificate of Appreciation from International Society for Bayesian Analysis, USA, for exceptional energy in promoting Bayesian Statistics in India and the organization of a world-class International Workshop/Conference on Bayesian Theory and Applications in Varanasi, India
+  
 Other achievements
 ======
 * 1997 Convener, First Regional Chapter of International Society for Bayesian Analysis (ISBA) in India. 
@@ -71,34 +78,36 @@ Pantnagar, India
 Positions held 
 ======
 i. Professor at the Department of Statistics, Banaras Hindu University, joined the post on 27.10.2005. 
+
 ii. Reader at the Department of Statistics, Banaras Hindu University, worked during the period from 27.07.1998 to 26.10.2005. 
+
 iii. Lecturer at the Department of Statistics, Banaras Hindu University, joined the post on 12.07.1984 and then promoted to Lecturer (Senior Scale) with effect from 07.08.1990. 
+
 iv. Lecturer at the Department of Statistics, Patna University, served during the period from 25.01.1983 to 11.07.1984, worked simultaneously for my Ph.D. and resigned on 11.7.1984 to join at Banaras Hind University. 
+
 v. Lecturer (temporary appointment) at the Department of Mathematics and Statistics, Banaras Hindu University, served for a period of almost six months (22.07.1981 to 28.01.1982), worked simultaneously for Ph.D. program. 
+
 vi. UGC junior research fellow at the Department of Mathematics and Statistics, Banaras Hindu University. The position was supported with a financial assistance and contingency grant from UGC (University Grants Commission) to pursue my Ph.D. (1980-1983, on leave during 22.7.81 to 28.01.82)
 
 Administrative Assignments
 ======
 i. Course Coordinator, Post graduate course in Statistics and Computing at DST Centre for Interdisciplinary Mathematical Sciences, Banaras Hindu University, 2013-Continued 
+
 ii. Head, Department of Statistics, Banaras Hindu University, 01 August, 2013 to 31 July, 2016. 
+
 iii. Controller of Examinations, Banaras Hindu University, 02 Feb.-30 Mar., 2017 
+
 iv. Additional Controller of Examinations, Banaras Hindu University, 02 Feb., 2017-Continued. 
+
 v. Coordinator, DST Centre for Interdisciplinary Mathematical Sciences, Banaras Hindu 
 University, 17 May 2017-25 May 2020 
+
 vi. Convener, Online Admission Assistance Committee, Banaras Hindu University, 2015-
 Continued 
+
 vii. Member, University Admission Coordination Board, Banaras Hindu University, 2018-
 Continued.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
